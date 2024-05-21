@@ -39,10 +39,9 @@ Develop a face detection and alarm system to:
 5. **Testing**: Ensured accuracy and efficiency.
 
 ## Future Work
-
-- Explore advanced architectures like ResNet.
-- Test on larger datasets for comprehensive evaluation.
-- Enhance real-time alerts and feedback mechanisms.
+- **Include sensors that track other body movements and behaviour of the driver.
+- **Build an AI model that senses and detects whether the driver should drive or not.
+- **In conclusion, all aspects of the driver behaviour should be used for detection to increase the success rate of the algorithm.
 
 ## Acknowledgements
 
